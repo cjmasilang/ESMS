@@ -3,12 +3,12 @@ Employee Shift Monitoring System
 
 # Documentation
 INTRODUCTION:
-	Script Name: PHP System
-	SKU: PUPSS
-	Product Url: 
-	Script Version: 1
-	Created: April 30, 2022
-	Latest Update: December 22, 2022
+	- Script Name: PHP System
+	- SKU: PUPSS
+	- Product Url: 
+	- Script Version: 1
+	- Created: April 30, 2022
+	- Latest Update: December 22, 2022
 
 REQUIREMENTS & COMPATIBILITY:
 Requirements
