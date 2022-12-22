@@ -37,7 +37,8 @@ User Dashboard:
 ![image](https://user-images.githubusercontent.com/119407422/209151011-1865d58d-f991-4389-834f-df4326ebcf65.png)
 
 Shift Monitoring Checklist:
-![image](https://user-images.githubusercontent.com/119407422/209151087-acd7fe18-e64c-4d27-ac6c-0761747b8425.png)
+![image](https://user-images.githubusercontent.com/119407422/209167708-e8933b70-d4ed-4ea6-ba10-b7e15869b8ad.png)
+
 
 Add Shift Monitoring:
 ![image](https://user-images.githubusercontent.com/119407422/209151180-aaf5a468-06ed-43a2-a7cd-1bfae4480270.png)
