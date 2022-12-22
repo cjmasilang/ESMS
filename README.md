@@ -1,6 +1,7 @@
 # ESMS
 Employee Shift Monitoring System
 
+# Documentation
 INTRODUCTION:
 	Script Name: PHP System
 	SKU: PUPSS
@@ -28,6 +29,7 @@ DATABASE CONFIGURATION:
  
 ![image](https://user-images.githubusercontent.com/119407422/209150859-d83cc751-75c8-4e43-bb5a-3c6f9564dacd.png)
 
+# UI
 Login Page:
 ![image](https://user-images.githubusercontent.com/119407422/209150948-994bdc28-ce19-4a31-87da-f8324d756786.png)
 
