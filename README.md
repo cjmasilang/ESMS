@@ -2,6 +2,7 @@
 Employee Shift Monitoring System
 
 # Documentation
+'''python
 INTRODUCTION:
 	- Script Name: PHP System
 	- SKU: PUPSS
