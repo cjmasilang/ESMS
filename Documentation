@@ -1,0 +1,43 @@
+INTRODUCTION:
+	Script Name: PHP System
+	SKU: PUPSS
+	Product Url: esmonitoring.azurewebsites.net
+	Script Version: 1
+	Created: April 30, 2022
+	Latest Update: December 22, 2022
+
+REQUIREMENTS & COMPATIBILITY:
+Requirements
+•	Php – version 7.4 – 8 
+•	MYSQL – version 5.0 or greater ( recommended: MYSQL 5.5 or greater).
+
+
+RECOMMENDED PHP CONFIGURATION LIMITS:
+-	Many issues that you may run into such as white screen when importing database. Empty page content and other similar issues are all related to low PHP configuration limits. The solution is to increase the PHP limits. 
+
+•	max_input_vars = 3000
+•	memory_limit = 128m
+•	max_execution_time = 300
+•	max_input_time = 300
+•	upload_max_filesize = 64m
+•	post_max_size = 64m
+
+COMPATIBILITY:
+•	Google Chrome
+•	Safari
+•	Firefox
+•	Brave
+•	Microsoft Edge
+
+
+Login Page
+![image](https://user-images.githubusercontent.com/119407422/209149197-23c6c7c5-6f1a-4a3e-9d97-87dbacd7af63.png)
+
+User Login
+![image](https://user-images.githubusercontent.com/119407422/209149310-0460e100-f8fc-429e-b72a-2a6a9c5d3f25.png)
+
+Supervisor Dashboard
+![image](https://user-images.githubusercontent.com/119407422/209149425-573fcbd5-af4d-42dc-b135-9b3dfe354869.png)
+
+Shift Monitoring Checklist
+![image](https://user-images.githubusercontent.com/119407422/209149550-7c71e2c2-edc2-45fe-a41e-cc600d0b9e8e.png)
