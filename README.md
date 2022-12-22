@@ -3,12 +3,12 @@ Employee Shift Monitoring System
 
 # INTRODUCTION:
 
-	- Script Name: PHP System
-	- SKU: PUPSS
-	- Product Url: 
-	- Script Version: 1
-	- Created: April 30, 2022
-	- Latest Update: December 22, 2022
+ * Script Name: PHP System
+ * SKU: PUPSS
+ * Product Url: 
+ * Script Version: 1
+ * Created: April 30, 2022
+ * Latest Update: December 22, 2022
 
 # REQUIREMENTS & COMPATIBILITY:
 Requirements
@@ -16,22 +16,20 @@ Requirements
 *	MYSQL – version 5.0 or greater ( recommended: MYSQL 5.5 or greater).
 
 # COMPATIBILITY:
-
 *	Google Chrome
 *	Safari
 *	Firefox
 *	Brave
 *	Microsoft Edge
 
-#DATABASE CONFIGURATION:
-
+# DATABASE CONFIGURATION:
 *	Go to application > config and open the config.php file.
 *	Write your database username and password in the empty fields.
 *	Change the database field to your database name.
  
 ![image](https://user-images.githubusercontent.com/119407422/209150859-d83cc751-75c8-4e43-bb5a-3c6f9564dacd.png)
 
-# UI
+# UI:
 Login Page:
 ![image](https://user-images.githubusercontent.com/119407422/209150948-994bdc28-ce19-4a31-87da-f8324d756786.png)
 
